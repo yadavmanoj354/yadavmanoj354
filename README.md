@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yadavmanoj354
+- 👋 Hi, I’m Manoj
 - 👀 I’m interested in ...
   - Machine Learning 
   - NLP
